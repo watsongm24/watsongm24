@@ -11,3 +11,18 @@ I speak French, Spanish, Haitian Creole and English. I have attended two [Pycon]
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I was once detained at Cleveland International Airport on Suspicion being a Spy. 
 
+🏡 [portfolio][portfolio] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+🎥 [twitch][twitch] **|** 
+📦 [npm][npm] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+[portfolio]: https://bradgarropy.com
+[twitter]: https://twitter.com/WMarcelain
+[instagram]: https://instagram.com/watsongm
+[linkedin]: https://www.linkedin.com/in/watson-marcelain-0a13a3ba/
+
+
