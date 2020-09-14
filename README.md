@@ -12,10 +12,7 @@ I speak French, Spanish, Haitian Creole and English. I have attended two [Pycon]
 - ⚡ Fun fact: ... I was once detained at Cleveland International Airport on Suspicion being a Spy. 
 
 🏡 [portfolio][portfolio] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
-📦 [npm][npm] **|** 
+🐦 [twitter][twitter] **|**  
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
