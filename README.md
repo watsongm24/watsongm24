@@ -10,7 +10,7 @@ I speak French, Spanish, Haitian Creole and English. I have attended two [Pycon]
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Twitter](https://twitter.com/WMarcelain)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I was once detained at Cleveland International Airport on Suspicion being a Spy. 
+- ⚡ Fun fact: ... I was once detained at Cleveland International Airport on Suspicion being a Spy. lolll 
 
 🏡 [portfolio][portfolio] **|** 
 🐦 [twitter][twitter] **|**  
