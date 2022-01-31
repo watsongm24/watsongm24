@@ -1,10 +1,10 @@
 Hi there 👋 – I'm Watson!
-I am a Python Developer. I am currently working at [Netflix](https://www.netflix.com/) as a Tech Support. I will be graduted as a Software Engineer in March 2021.
+I have a Bachelor degree in Software Engineering; recent Grad
 I speak French, Spanish, Haitian Creole and English. I have attended two [Pycon](https://us.pycon.org/2020/) conferences in the US.
 
-- 🔭 I’m currently working on ... Python/Django projects to make customers Happy.
-- 🌱 I’m currently learning ... Data Analysis with NumPy and pandas.
-- 👯 I’m looking to collaborate on ... Python
+- 🔭 I’m currently working on ... Data Science projects.
+- 🌱 I’m currently learning ... Python for Data Analysis.
+- 👯 I’m looking to collaborate on ... Python or Data Analysis poject
 - 🤔 I’m looking for help with ... AWS and Machine Learning
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Twitter](https://twitter.com/WMarcelain)
