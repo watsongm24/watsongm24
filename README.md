@@ -1,5 +1,6 @@
 Hi there 👋 – I'm Watson!
-I have a Bachelor degree in Software Engineering; recent Grad
+I have a Bachelor degree in Software Engineering; recent Grad.
+
 I speak French, Spanish, Haitian Creole and English. I have attended two [Pycon](https://us.pycon.org/2020/) conferences in the US.
 
 - 🔭 I’m currently working on ... Data Science projects.
