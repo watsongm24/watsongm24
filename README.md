@@ -14,7 +14,6 @@ I speak English, Spanish, French and  Haitian Creole. I have attended two [Pycon
 
 🏡 [portfolio][portfolio] **|** 
 🐦 [twitter][twitter] **|**  
-📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
 
