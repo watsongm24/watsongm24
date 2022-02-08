@@ -18,9 +18,8 @@ I speak English, Spanish, French and  Haitian Creole. I have attended two [Pycon
 👔 [linkedin][linkedin]
 
 
-[portfolio]: https://mystifying-heisenberg-4debed.netlify.app/
+[portfolio]: https://watsongm24.github.io/watsongm2/
 [twitter]: https://twitter.com/WMarcelain
-[instagram]: https://instagram.com/watsongm
 [linkedin]: https://www.linkedin.com/in/watson-marcelain-0a13a3ba/
 
 
