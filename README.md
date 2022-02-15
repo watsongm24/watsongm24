@@ -3,7 +3,7 @@ I have a Bachelor degree in Software Engineering; recent Grad..
 
 I speak English, Spanish, French and  Haitian Creole. I have attended two [Pycon](https://us.pycon.org/2020/) conferences in the US.
 
-- 🔭 I’m currently working on ... Data Science projects.
+- 🔭 I’m currently working on ... Data Science projects..
 - 🌱 I’m currently learning ... Python for Data Analysis.
 - 👯 I’m looking to collaborate on ... Python or Data Analysis poject
 - 🤔 I’m looking for help with ... AWS and Machine Learning
